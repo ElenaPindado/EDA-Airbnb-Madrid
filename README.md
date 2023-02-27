@@ -10,11 +10,12 @@ Datos obtenidos: (http://insideairbnb.com/get-the-data)
 # Resumen Contenido
 
 # Overview
+- Report generado a través de Pandas Profiling
 <img width="747" alt="report" src="https://user-images.githubusercontent.com/123492666/221606153-f9e13adb-0718-4e84-bf86-29259d2aeffc.png">
 
 # Gráficos que podremos ver en este análisis:
 
-# Mapa de calor de correalción entre variables
+# Mapa de calor de correlación entre variables
 ![mapacorr](https://user-images.githubusercontent.com/123492666/221606456-bba5c723-e141-467b-a45c-53ca51d7d9b1.png)
 
 # Outliers
