@@ -18,8 +18,8 @@ Datos obtenidos: (http://insideairbnb.com/get-the-data)
 # Mapa de calor de correlación entre variables
 ![mapacorr](https://user-images.githubusercontent.com/123492666/221606456-bba5c723-e141-467b-a45c-53ca51d7d9b1.png)
 
-# Outliers
+# Gráfico de Outliers
 ![output](https://user-images.githubusercontent.com/123492666/221606564-211a25e4-6b66-4663-8c5f-eaafc32cb05d.png)
 
-# Gráficos de mapas a través de Seaborn
+# Gráficos de mapas creados con Seaborn
 ![mapas](https://user-images.githubusercontent.com/123492666/221606723-3a17167c-d522-414e-8a7e-7ea45d3e1fb3.png)
