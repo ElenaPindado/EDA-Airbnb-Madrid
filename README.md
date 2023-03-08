@@ -24,6 +24,9 @@ Datos obtenidos: (http://insideairbnb.com/get-the-data)
 # Gráficos de mapas creados con Seaborn
 ![mapas](https://user-images.githubusercontent.com/123492666/221606723-3a17167c-d522-414e-8a7e-7ea45d3e1fb3.png)
 
+# Gráfico generado a través de Wordcloud
+![wordcloud madrid](https://user-images.githubusercontent.com/123492666/223789710-2bd869b5-42a2-43b3-8ff6-04d9cbb3902f.png)
+
 # Dashboard desarrollado con Power BI
 <img width="461" alt="madrid pbi" src="https://user-images.githubusercontent.com/123492666/223763106-1bd0793e-d262-4f13-a397-b0bc42d5e104.png">
 
